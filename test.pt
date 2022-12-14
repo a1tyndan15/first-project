@@ -1,0 +1,6 @@
+Hello world
+Hello world
+&& сразу делает 2 действия 
+nano - путь до файла 
+echo Hello world >> название файлла - пишет внутри файла
+ 
